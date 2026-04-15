@@ -19,6 +19,3 @@ The circuit returns expectation value of Pauli-Z on qubit 1.
 pip install -r requirements.txt
 python quantum/quantum_circuit.py
 ```
-
-## Author
-- **Nitya Gosain**
